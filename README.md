@@ -1,43 +1,71 @@
-# Hi, I'm Sivakumar 👋
+# Hi, I'm Sivakumar B 👋
 
-### Aspiring Software Developer | Java | React | Web Development
+### Java Full Stack Developer | Spring Boot | React.js
 
-I'm a developer interested in building practical software applications and solving real-world problems through code.
+I'm an aspiring Java Full Stack Developer with a background in Computer Science and Engineering. I enjoy building web applications, designing REST APIs, and developing practical software solutions.
 
-- 💻 Working on software development projects
-- 🌱 Improving my skills in Java, React, and web development
-- 🚀 Building projects to strengthen my development skills
-- 🎯 Career goal: Software Developer / Full Stack Developer
-- 📂 Explore my repositories below
+- 🔭 Building full-stack applications with Java, Spring Boot, and React
+- 🌱 Strengthening my skills in backend development, API security, and database design
+- 🛠️ Interested in clean code, problem-solving, and reliable software
+- 🎯 Looking for opportunities as a Java Full Stack Developer
+- 🌐 Portfolio: [Visit my portfolio](https://sivakumar-portfolio-zeta.vercel.app/)
 
-## 🛠️ Technologies & Tools
+## 🧰 Technical Skills
 
-**Languages:** Java, JavaScript, HTML, CSS  
-**Frontend:** React, HTML5, CSS3  
-**Tools:** Git, GitHub, VS Code
+**Languages:** Java, JavaScript, SQL
 
-*Keep only the technologies you can confidently use and demonstrate.*
+**Frontend:** React.js, HTML5, CSS3, Responsive Design
+
+**Backend:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, REST APIs, JWT
+
+**Databases:** MySQL, Oracle SQL
+
+**Tools:** Git, GitHub, Maven, Postman, GitHub Actions
 
 ## 🚀 Featured Projects
 
-### Employee Management System
-A project focused on employee information and management.
+### 1. Expense Tracker
 
-[View Repository](https://github.com/siva266/EmployeeManagementSystem)
+A full-stack expense management application built with Java, Spring Boot, React, and MySQL.
 
-### Expense Tracker
-A project focused on tracking and organizing expenses.
+- REST APIs for expense management
+- Expense summary and category/date filtering endpoints
+- Pagination support in expense queries
 
-[View Repository](https://github.com/siva266/expense-tracker)
+**Tech Stack:** Java 17, Spring Boot 3, Spring Data JPA, MySQL, React, Vite
 
-### MyReact
-A repository for React-related frontend development.
+[View Source Code](https://github.com/siva266/expense-tracker)
 
-[View Repository](https://github.com/siva266/myreact)
+### 2. Employee Management System
 
-## 📫 Connect With Me
+A Core Java application for managing employee records with CRUD operations and file-based persistence.
 
-- GitHub: https://github.com/siva266
+- Add, view, search, update, and delete employee records
+- Search by employee ID and department
+- Store and reload records using text-file persistence
+
+**Tech Stack:** Java, OOP, CRUD, File Handling
+
+[View Source Code](https://github.com/siva266/EmployeeManagementSystem)
+
+### 3. React Portfolio
+
+A React-based repository for frontend development.
+
+**Tech Stack:** React, Vite, JavaScript, CSS
+
+[View Source Code](https://github.com/siva266/myreact)
+
+## 🎓 Education
+
+**B.E. in Computer Science and Engineering**  
+Kathir College of Engineering | 2022–2026
+
+## 🤝 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/sivakumar777)
+- 🌐 [Portfolio](https://sivakumar-portfolio-zeta.vercel.app/)
+- 💻 [GitHub](https://github.com/siva266)
 
 ---
 
